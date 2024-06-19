@@ -1,3 +1,5 @@
+#!/bin/bash
+
 ## Strapi Application installation on Ubuntu 22
 
 sudo apt update
