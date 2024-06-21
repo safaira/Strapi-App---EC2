@@ -15,7 +15,7 @@ sudo chmod 764 ~/.nvm/nvm.sh
 nvm install node && sudo apt install npm
 nvm install 18.0
 nvm use 18 
-npm install -g yarn
+#npm install -g yarn
 
 sudo apt update 
 npx create-strapi-app@latest saniya-strapi-project --quickstart
